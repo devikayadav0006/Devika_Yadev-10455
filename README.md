@@ -111,4 +111,3 @@ After completing this project, the following learning outcomes were achieved:
 
 ---
 
-⭐ *This project is ideal for beginners, academic submissions, and as a stepping stone toward advanced C programming projects.*
