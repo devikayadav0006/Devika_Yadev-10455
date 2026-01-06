@@ -67,8 +67,8 @@ The screenshot below shows the output after successful execution of the program:
 ![Output Screenshot](Output.png)
 
 > 📌 *Note:*  
-> Upload your actual output screenshot in the repository with the filename **output.png**  
-> (or update the filename here if it is different).
+>  Upload a screenshot of your program output in the repository and name it output.png**Output.png**  
+> .
 
 ---
 
